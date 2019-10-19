@@ -1,0 +1,1226 @@
+AttachPoint
+{
+    name   = "SpecialHit04"
+    parent = "Bip01 Spine1"
+    origin = (-0.000000, 0.000000, -0.000000)
+    xAxis  = (1.000012, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 1.000012, 0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "L Hand"
+    parent = "Bip01 L Weapon"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000048, 0.000076, -0.000040)
+    yAxis  = (0.000076, 1.000022, 0.000010)
+    zAxis  = (-0.000040, 0.000010, 1.000049)
+}
+AttachPoint
+{
+    name   = "SpecialHit03"
+    parent = "Bip01 Spine1"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000028, 0.000001, -0.000006)
+    yAxis  = (0.000001, 1.000048, -0.000012)
+    zAxis  = (-0.000005, -0.000012, 1.000007)
+}
+AttachPoint
+{
+    name   = "HeadFXUP"
+    origin = (0.000000, 2.670269, -0.031170)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit02"
+    parent = "Bip01 Spine1"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "SpecialHit01"
+    parent = "Bip01 Spine1"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Medal"
+    parent = "Bip01 Spine1"
+    origin = (0.116738, 0.211502, 0.152307)
+    xAxis  = (1.000019, 0.000000, -0.000000)
+    yAxis  = (-0.000000, 0.907152, 0.420841)
+    zAxis  = (0.000000, -0.420848, 0.907134)
+}
+AttachPoint
+{
+    name   = "Light"
+    origin = (0.000000, 3.500000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Head"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXCentered"
+    parent = "Bip01 Spine1"
+    origin = (-0.292844, 0.037111, 0.000002)
+    xAxis  = (-0.000867, 0.008333, 0.999969)
+    yAxis  = (0.994716, 0.103061, -0.000004)
+    zAxis  = (-0.103056, 0.994708, -0.008395)
+}
+AttachPoint
+{
+    name   = "HeadEffect"
+    parent = "Bip01 Head"
+    origin = (0.119309, 0.057412, -0.000000)
+    xAxis  = (-0.400001, -0.800002, -0.000000)
+    yAxis  = (0.800004, -0.400001, -0.000000)
+    zAxis  = (-0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "Target"
+    parent = "Bip01 Spine1"
+    origin = (-0.122525, 0.130123, -0.109034)
+    xAxis  = (-0.000132, 0.080099, 0.996769)
+    yAxis  = (0.998034, 0.063353, -0.004960)
+    zAxis  = (-0.063560, 0.994762, -0.079942)
+}
+AttachPoint
+{
+    name   = "FXUnParentedCenter"
+    origin = (-0.000751, 0.021454, -0.019518)
+    xAxis  = (0.999753, -0.022154, -0.002021)
+    yAxis  = (0.022128, 0.999681, -0.012193)
+    zAxis  = (0.002290, 0.012145, 0.999923)
+}
+AttachPoint
+{
+    name   = "Upper Body"
+    origin = (0.000000, 0.000000, 0.000000)
+    xAxis  = (1.000000, 0.000000, 0.000000)
+    yAxis  = (0.000000, 1.000000, 0.000000)
+    zAxis  = (0.000000, 0.000000, 1.000000)
+}
+AttachPoint
+{
+    name   = "FXForward"
+    parent = "Target_CTRL"
+    origin = (0.016211, -0.531944, 1.367796)
+    xAxis  = (0.025134, -0.003848, 0.999675)
+    yAxis  = (-0.001476, -0.999989, -0.003813)
+    zAxis  = (0.999683, -0.001380, -0.025140)
+}
+AttachPoint
+{
+    name   = "R Hand"
+    parent = "Bip01 R Weapon"
+    origin = (0.000002, -0.000005, -0.000000)
+    xAxis  = (1.001386, 0.001070, 0.000031)
+    yAxis  = (-0.001070, -1.000995, 0.000105)
+    zAxis  = (0.000031, -0.000105, 1.002372)
+}
+AttachPoint
+{
+    name   = "Mouth"
+    parent = "Bip01 Head"
+    origin = (0.078637, 0.154058, -0.000035)
+    xAxis  = (0.906874, -0.416812, 0.000503)
+    yAxis  = (0.416675, 0.906837, -0.000236)
+    zAxis  = (0.000359, -0.000425, 0.999807)
+}
+SkeletonEmitterBones
+{
+Bone_Head
+Bone_Spine01
+Bone_Spine02
+Bone_L_Clavicle
+Bone_L_Shoulder
+Bone_L_ForeArm
+Bone_L_Wrist
+Bone_R_Clavicle
+Bone_R_Shoulder
+Bone_R_ForeArm
+Bone_R_Wrist
+Bone_Root
+Bone_Waist
+Bone_L_Femur
+Bone_L_Shin
+Bone_L_HorseBone
+Bone_L_Foot
+Bone_R_Femur
+Bone_R_Shin
+Bone_R_HorseBone
+Bone_R_Foot
+}
+RigidBodyDescription
+{
+    parentName = "Bip01"
+    childName = "Bip01 Neck"
+    parentOrigin = (-0.385431, 0.000000, 0.000000)
+    parentXAxis  = (-0.112381, 0.993665, 0.000003)
+    parentYAxis  = (0.000000, -0.000003, 1.000000)
+    parentZAxis  = (0.993665, 0.112381, 0.000000)
+    childOrigin = (0.385431, 0.000000, 0.000000)
+    childXAxis  = (0.946192, 0.323606, 0.000001)
+    childYAxis  = (-0.323606, 0.946192, -0.000000)
+    childZAxis  = (-0.000001, 0.000000, 1.000000)
+    shape = "0"
+    extents = (0.353874, 0.199916, 0.217153)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+    FusedBone
+    {
+        name = "Bip01 Pelvis"
+        origin = (-0.385431, 0.000000, -0.000000)
+        xAxis  = (0.993665, 0.112381, -0.000001)
+        yAxis  = (-0.112381, 0.993665, 0.000004)
+        zAxis  = (0.000002, -0.000004, 1.000000)
+    }
+    FusedBone
+    {
+        name = "Bip01 Spine"
+        origin = (-0.290278, -0.010695, -0.000000)
+        xAxis  = (0.993575, 0.113173, 0.000000)
+        yAxis  = (-0.113173, 0.993575, -0.000000)
+        zAxis  = (-0.000000, 0.000000, 1.000000)
+    }
+    FusedBone
+    {
+        name = "Bip01 Spine1"
+        origin = (0.029135, 0.025454, 0.000000)
+        xAxis  = (0.999809, -0.019527, -0.000000)
+        yAxis  = (0.019527, 0.999809, -0.000000)
+        zAxis  = (0.000000, 0.000000, 1.000000)
+    }
+    FusedBone
+    {
+        name = "Bip01 R Clavicle"
+        origin = (0.267517, 0.012608, -0.043276)
+        xAxis  = (-0.000000, 0.000003, -1.000000)
+        yAxis  = (-0.020323, -0.999794, -0.000003)
+        zAxis  = (-0.999794, 0.020323, 0.000000)
+    }
+    FusedBone
+    {
+        name = "Bip01 R UpperArm"
+        origin = (0.267517, 0.012608, -0.273482)
+        xAxis  = (-0.757705, -0.163573, -0.631766)
+        yAxis  = (0.211021, -0.977482, -0.000003)
+        zAxis  = (-0.617539, -0.133319, 0.775160)
+    }
+    FusedBone
+    {
+        name = "Bone_Shoulder_R"
+        origin = (0.306931, 0.017066, -0.247468)
+        xAxis  = (0.000000, -0.000001, 1.000000)
+        yAxis  = (-0.020335, -0.999793, -0.000001)
+        zAxis  = (0.999793, -0.020335, -0.000000)
+    }
+    FusedBone
+    {
+        name = "Bip01 L Clavicle"
+        origin = (0.267516, 0.012608, 0.043276)
+        xAxis  = (-0.003485, 0.000068, 0.999994)
+        yAxis  = (-0.020323, -0.999794, -0.000003)
+        zAxis  = (0.999788, -0.020323, 0.003486)
+    }
+    FusedBone
+    {
+        name = "Bip01 L UpperArm"
+        origin = (0.266714, 0.012623, 0.273481)
+        xAxis  = (-0.749613, -0.161830, 0.641788)
+        yAxis  = (0.211020, -0.977482, -0.000003)
+        zAxis  = (0.627337, 0.135428, 0.766882)
+    }
+    FusedBone
+    {
+        name = "Bone_Shoulder_L"
+        origin = (0.306530, 0.017073, 0.252944)
+        xAxis  = (0.000000, -0.000001, 1.000000)
+        yAxis  = (-0.020335, -0.999794, -0.000001)
+        zAxis  = (0.999793, -0.020335, -0.000000)
+    }
+    FusedBone
+    {
+        name = "CoatTail_RT"
+        origin = (-0.272980, 0.173740, -0.177230)
+        xAxis  = (-0.231586, 0.736915, 0.635078)
+        yAxis  = (0.073427, 0.664205, -0.743936)
+        zAxis  = (-0.970039, -0.125653, -0.207930)
+    }
+    FusedBone
+    {
+        name = "CoatTail_LT"
+        origin = (-0.272980, 0.173739, 0.171879)
+        xAxis  = (0.231586, -0.736916, 0.635076)
+        yAxis  = (0.073427, 0.664203, 0.743938)
+        zAxis  = (-0.970039, -0.125654, 0.207930)
+    }
+    FusedBone
+    {
+        name = "CoatTail_LT01"
+        origin = (-0.231224, -0.140029, 0.201851)
+        xAxis  = (-0.031783, 0.712188, 0.701269)
+        yAxis  = (-0.294914, 0.663704, -0.687403)
+        zAxis  = (-0.954995, -0.228662, 0.188940)
+    }
+    FusedBone
+    {
+        name = "CoatTail_LT02"
+        origin = (-0.231224, -0.140029, -0.207185)
+        xAxis  = (0.031784, -0.712194, 0.701263)
+        yAxis  = (-0.294914, 0.663698, 0.687409)
+        zAxis  = (-0.954995, -0.228661, -0.188940)
+    }
+    FusedBone
+    {
+        name = "Bip01 L Thigh"
+        origin = (-0.385431, -0.000000, 0.143837)
+        xAxis  = (-0.976036, -0.195830, 0.094894)
+        yAxis  = (-0.195030, 0.980637, 0.017717)
+        zAxis  = (-0.096526, -0.001215, -0.995330)
+    }
+    FusedBone
+    {
+        name = "Bip01 R Thigh"
+        origin = (-0.385431, 0.000000, -0.143837)
+        xAxis  = (-0.975512, -0.195693, -0.100399)
+        yAxis  = (-0.194800, 0.980664, -0.018725)
+        zAxis  = (0.102123, 0.001291, -0.994771)
+    }
+    FusedBone
+    {
+        name = "Coat_Loin_1"
+        origin = (-0.411001, 0.217269, -0.002670)
+        xAxis  = (-0.000001, 0.000011, 1.000000)
+        yAxis  = (-0.103034, 0.994678, -0.000011)
+        zAxis  = (-0.994678, -0.103034, 0.000000)
+    }
+    FusedBone
+    {
+        name = "CoatTail_C"
+        origin = (-0.411001, 0.217269, -0.002670)
+        xAxis  = (-0.000001, 0.000011, 1.000000)
+        yAxis  = (-0.103034, 0.994678, -0.000011)
+        zAxis  = (-0.994678, -0.103034, 0.000000)
+    }
+    FusedBone
+    {
+        name = "CoatTail_01"
+        origin = (-0.253680, -0.193048, -0.002670)
+        xAxis  = (0.000000, -0.000002, 1.000000)
+        yAxis  = (-0.262337, 0.964976, 0.000002)
+        zAxis  = (-0.964976, -0.262337, -0.000000)
+    }
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_LT01"
+    childName = "CoatTail_LB01"
+    parentOrigin = (-0.257899, -0.002411, 0.000000)
+    parentXAxis  = (0.000000, 0.921444, 0.388415)
+    parentYAxis  = (-0.000000, -0.388398, 0.921484)
+    parentZAxis  = (1.000000, 0.009349, 0.000000)
+    childOrigin = (0.257899, 0.002411, 0.000000)
+    childXAxis  = (0.000000, 0.921444, 0.388415)
+    childYAxis  = (-0.000000, -0.388398, 0.921484)
+    childZAxis  = (1.000000, 0.009349, 0.000000)
+    shape = "0"
+    extents = (0.206319, 0.082528, 0.082528)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_RT"
+    childName = "CoatTail_RB"
+    parentOrigin = (-0.302350, -0.000281, -0.000000)
+    parentXAxis  = (0.000000, 0.978992, 0.203896)
+    parentYAxis  = (-0.000000, -0.203896, 0.978993)
+    parentZAxis  = (1.000000, 0.000929, 0.000000)
+    childOrigin = (0.302350, 0.000281, -0.000000)
+    childXAxis  = (-0.000000, 0.978992, 0.203896)
+    childYAxis  = (-0.000000, -0.203896, 0.978992)
+    childZAxis  = (1.000000, 0.000929, 0.000000)
+    shape = "0"
+    extents = (0.241880, 0.096752, 0.096752)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_01"
+    childName = "CoatTail_02"
+    parentOrigin = (-0.219418, 0.000000, 0.000000)
+    parentXAxis  = (-0.000000, -0.997264, -0.073920)
+    parentYAxis  = (0.000000, 0.073920, -0.997264)
+    parentZAxis  = (1.000000, -0.000000, 0.000000)
+    childOrigin = (0.219418, 0.000000, 0.000000)
+    childXAxis  = (-0.000000, -0.997264, -0.073920)
+    childYAxis  = (0.000001, 0.073920, -0.997264)
+    childZAxis  = (1.000000, 0.000000, 0.000000)
+    shape = "0"
+    extents = (0.175535, 0.070214, 0.070214)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Coat_Loin_1"
+    childName = "Coat_Loin_2"
+    parentOrigin = (-0.119342, 0.000000, 0.000000)
+    parentXAxis  = (-0.000000, 0.961766, 0.273873)
+    parentYAxis  = (-0.000000, -0.273873, 0.961766)
+    parentZAxis  = (1.000000, 0.000000, 0.000000)
+    childOrigin = (0.119342, 0.000000, 0.000000)
+    childXAxis  = (-0.000000, 0.961769, 0.273860)
+    childYAxis  = (-0.000000, -0.273860, 0.961769)
+    childZAxis  = (1.000000, 0.000000, 0.000000)
+    shape = "0"
+    extents = (0.095474, 0.038189, 0.038189)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_LT02"
+    childName = "CoatTail_LB02"
+    parentOrigin = (-0.257899, -0.000001, 0.000000)
+    parentXAxis  = (0.000001, 0.742629, -0.669703)
+    parentYAxis  = (0.000000, 0.669703, 0.742630)
+    parentZAxis  = (1.000000, 0.000003, 0.000001)
+    childOrigin = (0.257899, 0.000001, 0.000000)
+    childXAxis  = (0.000001, 0.742629, -0.669703)
+    childYAxis  = (-0.000001, 0.669702, 0.742630)
+    childZAxis  = (1.000000, 0.000004, 0.000001)
+    shape = "0"
+    extents = (0.206319, 0.082528, 0.082528)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_LT"
+    childName = "CoatTail_LB"
+    parentOrigin = (-0.302349, 0.000035, 0.000000)
+    parentXAxis  = (-0.000001, 0.257440, 0.966294)
+    parentYAxis  = (0.000000, -0.966294, 0.257440)
+    parentZAxis  = (1.000000, -0.000115, 0.000001)
+    childOrigin = (0.302349, -0.000035, 0.000000)
+    childXAxis  = (-0.000001, 0.257440, 0.966294)
+    childYAxis  = (0.000000, -0.966295, 0.257439)
+    childZAxis  = (1.000000, -0.000115, 0.000001)
+    shape = "0"
+    extents = (0.241880, 0.096752, 0.096752)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_LB01"
+    childName = "CoatTail_LB04"
+    parentOrigin = (-0.124930, 0.000109, 0.000000)
+    parentXAxis  = (0.000001, -0.992296, -0.123886)
+    parentYAxis  = (0.000001, 0.123885, -0.992296)
+    parentZAxis  = (1.000000, -0.000870, 0.000001)
+    childOrigin = (0.124930, -0.000109, 0.000000)
+    childXAxis  = (0.000001, -0.992296, -0.123887)
+    childYAxis  = (0.000001, 0.123886, -0.992296)
+    childZAxis  = (1.000000, -0.000870, 0.000002)
+    shape = "0"
+    extents = (0.099944, 0.039978, 0.039978)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_RB"
+    childName = "CoatTail_RB1"
+    parentOrigin = (-0.124930, -0.000014, 0.000000)
+    parentXAxis  = (-0.000000, 0.912816, 0.408370)
+    parentYAxis  = (-0.000000, -0.408370, 0.912816)
+    parentZAxis  = (1.000000, 0.000115, 0.000000)
+    childOrigin = (0.124930, 0.000014, 0.000000)
+    childXAxis  = (-0.000000, 0.912816, 0.408370)
+    childYAxis  = (-0.000001, -0.408370, 0.912816)
+    childZAxis  = (1.000000, 0.000115, 0.000001)
+    shape = "0"
+    extents = (0.099944, 0.039978, 0.039978)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_02"
+    childName = "CoatTail_03"
+    parentOrigin = (-0.111468, -0.000000, 0.000000)
+    parentXAxis  = (-0.000000, -0.999968, 0.008050)
+    parentYAxis  = (0.000000, -0.008050, -0.999968)
+    parentZAxis  = (1.000000, -0.000000, 0.000000)
+    childOrigin = (0.111468, 0.000000, 0.000000)
+    childXAxis  = (-0.000000, -0.999968, 0.008050)
+    childYAxis  = (0.000001, -0.008050, -0.999968)
+    childZAxis  = (1.000000, 0.000000, 0.000001)
+    shape = "0"
+    extents = (0.089175, 0.035670, 0.035670)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Coat_Loin_2"
+    childName = "Coat_Loin_3"
+    parentOrigin = (-0.119342, 0.000000, 0.000000)
+    parentXAxis  = (-0.000000, 0.999853, 0.017172)
+    parentYAxis  = (-0.000000, -0.017172, 0.999852)
+    parentZAxis  = (1.000000, 0.000000, 0.000000)
+    childOrigin = (0.119342, 0.000000, 0.000000)
+    childXAxis  = (-0.000000, 0.999853, 0.017172)
+    childYAxis  = (-0.000000, -0.017172, 0.999852)
+    childZAxis  = (1.000000, 0.000000, 0.000000)
+    shape = "0"
+    extents = (0.095474, 0.038189, 0.038189)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_LB02"
+    childName = "CoatTail_LB03"
+    parentOrigin = (-0.124930, 0.000031, 0.000000)
+    parentXAxis  = (0.000000, -0.973154, 0.230155)
+    parentYAxis  = (0.000002, -0.230154, -0.973154)
+    parentZAxis  = (1.000000, -0.000250, 0.000002)
+    childOrigin = (0.124930, -0.000031, 0.000000)
+    childXAxis  = (0.000000, -0.973154, 0.230155)
+    childYAxis  = (0.000002, -0.230153, -0.973154)
+    childZAxis  = (1.000000, -0.000250, 0.000001)
+    shape = "0"
+    extents = (0.099944, 0.039978, 0.039978)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "CoatTail_LB"
+    childName = "CoatTail_LB05"
+    parentOrigin = (-0.124930, -0.000042, -0.000000)
+    parentXAxis  = (-0.000001, 0.825817, 0.563937)
+    parentYAxis  = (-0.000000, -0.563938, 0.825817)
+    parentZAxis  = (1.000000, 0.000334, 0.000001)
+    childOrigin = (0.124930, 0.000042, 0.000000)
+    childXAxis  = (-0.000000, 0.825818, 0.563937)
+    childYAxis  = (-0.000000, -0.563938, 0.825817)
+    childZAxis  = (1.000000, 0.000334, 0.000001)
+    shape = "0"
+    extents = (0.099944, 0.039978, 0.039978)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 L Thigh"
+    childName = "Bip01 L Calf"
+    parentOrigin = (-0.309117, 0.000000, -0.000000)
+    parentXAxis  = (1.000000, 0.000000, 0.000000)
+    parentYAxis  = (-0.000000, 1.000000, 0.000000)
+    parentZAxis  = (-0.000000, 0.000000, 1.000000)
+    childOrigin = (0.309117, 0.000000, 0.000000)
+    childXAxis  = (0.999862, -0.016615, 0.000000)
+    childYAxis  = (0.016615, 0.999862, 0.000000)
+    childZAxis  = (-0.000000, 0.000000, 1.000000)
+    shape = "0"
+    extents = (0.247294, 0.098918, 0.098918)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 R Thigh"
+    childName = "Bip01 R Calf"
+    parentOrigin = (-0.309118, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, -0.000000, -0.000000)
+    parentYAxis  = (0.000000, 1.000000, -0.000000)
+    parentZAxis  = (0.000000, -0.000000, 1.000000)
+    childOrigin = (0.309117, 0.000000, 0.000000)
+    childXAxis  = (0.999858, -0.016865, -0.000000)
+    childYAxis  = (0.016865, 0.999858, -0.000000)
+    childZAxis  = (0.000000, -0.000000, 1.000000)
+    shape = "0"
+    extents = (0.247294, 0.098918, 0.098918)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 Neck"
+    childName = "Bip01 Head"
+    parentOrigin = (-0.063788, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, -0.000000, -0.000000)
+    parentYAxis  = (0.000000, 1.000000, -0.000000)
+    parentZAxis  = (0.000000, 0.000000, 1.000000)
+    childOrigin = (0.063788, 0.000000, 0.000000)
+    childXAxis  = (0.999760, 0.021894, -0.000000)
+    childYAxis  = (-0.021894, 0.999760, 0.000000)
+    childZAxis  = (0.000000, 0.000000, 1.000000)
+    shape = "0"
+    extents = (0.151031, 0.100412, 0.100412)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.150000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 L Calf"
+    childName = "Bip01 L Foot"
+    parentOrigin = (-0.309118, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, -0.000000, -0.000000)
+    parentYAxis  = (0.000000, 0.990683, 0.136185)
+    parentZAxis  = (0.000000, -0.136185, 0.990683)
+    childOrigin = (0.309118, 0.000000, 0.000000)
+    childXAxis  = (0.990303, 0.086387, 0.108798)
+    childYAxis  = (-0.085870, 0.996262, -0.009434)
+    childZAxis  = (-0.109207, 0.000000, 0.994019)
+    shape = "0"
+    extents = (0.247294, 0.098918, 0.098918)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+    FusedBone
+    {
+        name = "Bip01 L Toe0"
+        origin = (0.437054, 0.161701, 0.014056)
+        xAxis  = (-0.085528, 0.996291, -0.009433)
+        yAxis  = (-0.990335, -0.086047, -0.108784)
+        zAxis  = (-0.109192, 0.000038, 0.994021)
+    }
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 R Calf"
+    childName = "Bip01 R Foot"
+    parentOrigin = (-0.309118, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, 0.000000, 0.000000)
+    parentYAxis  = (0.000000, 0.993433, -0.114420)
+    parentZAxis  = (-0.000000, 0.114420, 0.993433)
+    childOrigin = (0.309118, 0.000000, 0.000000)
+    childXAxis  = (0.989746, 0.088121, -0.112415)
+    childYAxis  = (-0.087558, 0.996110, 0.009945)
+    childZAxis  = (0.112854, 0.000000, 0.993612)
+    shape = "0"
+    extents = (0.247294, 0.098918, 0.098918)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+    FusedBone
+    {
+        name = "Bip01 R Toe0"
+        origin = (0.436721, 0.161925, -0.014493)
+        xAxis  = (-0.087216, 0.996140, 0.009940)
+        yAxis  = (-0.989778, -0.087781, 0.112400)
+        zAxis  = (0.112839, -0.000035, 0.993613)
+    }
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 L UpperArm"
+    childName = "Bip01 L Forearm"
+    parentOrigin = (-0.185470, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, 0.000000, 0.000000)
+    parentYAxis  = (-0.000000, 1.000000, 0.000000)
+    parentZAxis  = (-0.000001, -0.000000, 1.000000)
+    childOrigin = (0.185471, 0.000000, -0.000000)
+    childXAxis  = (0.924904, -0.380202, 0.000000)
+    childYAxis  = (0.380202, 0.924904, 0.000000)
+    childZAxis  = (-0.000001, -0.000000, 1.000000)
+    shape = "0"
+    extents = (0.148376, 0.059351, 0.059351)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 R UpperArm"
+    childName = "Bip01 R Forearm"
+    parentOrigin = (-0.185470, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, 0.000000, 0.000000)
+    parentYAxis  = (0.000000, 1.000000, -0.000000)
+    parentZAxis  = (-0.000000, -0.000000, 1.000000)
+    childOrigin = (0.185470, 0.000000, 0.000000)
+    childXAxis  = (0.934796, -0.355184, 0.000000)
+    childYAxis  = (0.355184, 0.934797, 0.000000)
+    childZAxis  = (-0.000000, -0.000000, 1.000000)
+    shape = "0"
+    extents = (0.148376, 0.059351, 0.059351)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 L Forearm"
+    childName = "Bip01 L Hand"
+    parentOrigin = (-0.200713, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, 0.000001, -0.000000)
+    parentYAxis  = (-0.000000, 0.210588, 0.977575)
+    parentZAxis  = (0.000000, -0.977575, 0.210588)
+    childOrigin = (0.200713, 0.000000, 0.000000)
+    childXAxis  = (0.972689, 0.226911, -0.048881)
+    childYAxis  = (-0.226624, 0.973916, 0.011389)
+    childZAxis  = (0.050189, 0.000000, 0.998740)
+    shape = "0"
+    extents = (0.160571, 0.064228, 0.064228)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+    FusedBone
+    {
+        name = "Bip01 L Finger0"
+        origin = (0.211460, 0.028028, -0.053534)
+        xAxis  = (0.719329, 0.645729, -0.256128)
+        yAxis  = (0.103197, 0.265280, 0.958633)
+        zAxis  = (0.686963, -0.716003, 0.124186)
+    }
+    FusedBone
+    {
+        name = "Bip01 L ForeTwist"
+        origin = (-0.200713, 0.000000, 0.000000)
+        xAxis  = (1.000000, 0.000000, -0.000000)
+        yAxis  = (-0.000000, 0.105889, 0.994378)
+        zAxis  = (0.000000, -0.994378, 0.105889)
+    }
+    FusedBone
+    {
+        name = "Bip01 L Finger1"
+        origin = (0.325310, 0.022587, -0.002115)
+        xAxis  = (0.553104, 0.819859, 0.148012)
+        yAxis  = (-0.831719, 0.553665, 0.041216)
+        zAxis  = (-0.048158, -0.145901, 0.988127)
+    }
+    FusedBone
+    {
+        name = "Weapon_L_Parent_Fix"
+        origin = (0.276264, 0.017625, -0.003796)
+        xAxis  = (0.972689, 0.226911, -0.048881)
+        yAxis  = (-0.225315, 0.973619, 0.036052)
+        zAxis  = (0.055771, -0.024053, 0.998154)
+    }
+    FusedBone
+    {
+        name = "Weapon_L_Parent"
+        origin = (0.276264, 0.017625, -0.003796)
+        xAxis  = (0.972689, 0.226911, -0.048881)
+        yAxis  = (-0.225315, 0.973619, 0.036052)
+        zAxis  = (0.055771, -0.024053, 0.998154)
+    }
+    FusedBone
+    {
+        name = "Bip01 L Weapon"
+        origin = (0.276263, 0.017625, -0.003796)
+        xAxis  = (0.972689, 0.226914, -0.048882)
+        yAxis  = (-0.225313, 0.973620, 0.036052)
+        zAxis  = (0.055770, -0.024053, 0.998156)
+    }
+}
+RigidBodyDescription
+{
+    parentName = "Bip01 R Forearm"
+    childName = "Bip01 R Hand"
+    parentOrigin = (-0.206363, 0.000000, 0.000000)
+    parentXAxis  = (1.000000, -0.000000, -0.000000)
+    parentYAxis  = (-0.000000, 0.210588, -0.977575)
+    parentZAxis  = (0.000000, 0.977575, 0.210588)
+    childOrigin = (0.206363, 0.000000, 0.000000)
+    childXAxis  = (0.972688, 0.226910, 0.048880)
+    childYAxis  = (-0.226624, 0.973916, -0.011389)
+    childZAxis  = (-0.050189, -0.000000, 0.998740)
+    shape = "0"
+    extents = (0.165090, 0.066036, 0.066036)
+    collides = "true"
+    mass = "1.000000"
+    friction = "1.000000"
+    restitution = "0.000000"
+    adjustment = "0.000000"
+    playFallSound = "false"
+    FusedBone
+    {
+        name = "Bip01 R ForeTwist"
+        origin = (-0.206363, -0.000000, 0.000000)
+        xAxis  = (1.000000, -0.000000, -0.000000)
+        yAxis  = (-0.000000, 0.105889, -0.994378)
+        zAxis  = (0.000000, 0.994378, 0.105889)
+    }
+    FusedBone
+    {
+        name = "Bip01 R Finger0"
+        origin = (0.217109, 0.028028, 0.053534)
+        xAxis  = (0.719328, 0.645729, 0.256127)
+        yAxis  = (0.103197, 0.265280, -0.958633)
+        zAxis  = (-0.686962, 0.716004, 0.124186)
+    }
+    FusedBone
+    {
+        name = "Bip01 R Finger1"
+        origin = (0.330960, 0.022587, 0.002115)
+        xAxis  = (0.553104, 0.819859, -0.148012)
+        yAxis  = (-0.831719, 0.553665, -0.041216)
+        zAxis  = (0.048158, 0.145901, 0.988127)
+    }
+    FusedBone
+    {
+        name = "Weapon_R_Parent_Fix"
+        origin = (0.301067, 0.059499, 0.029218)
+        xAxis  = (0.947084, 0.149394, -0.284100)
+        yAxis  = (-0.060992, 0.952721, 0.297662)
+        zAxis  = (-0.315138, 0.264583, -0.911419)
+    }
+    FusedBone
+    {
+        name = "Weapon_R_Parent"
+        origin = (0.301067, 0.059499, 0.029218)
+        xAxis  = (0.947084, 0.149394, -0.284101)
+        yAxis  = (-0.060992, 0.952721, 0.297662)
+        zAxis  = (-0.315138, 0.264583, -0.911419)
+    }
+    FusedBone
+    {
+        name = "Bip01 R Weapon"
+        origin = (0.301067, 0.059499, 0.029217)
+        xAxis  = (0.947084, 0.149393, -0.284100)
+        yAxis  = (-0.060992, 0.952722, 0.297663)
+        zAxis  = (-0.315139, 0.264584, -0.911420)
+    }
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "1"
+    jointType = "conetwist"
+    jointLocation = "4"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "2"
+    jointType = "conetwist"
+    jointLocation = "4"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "3"
+    jointType = "conetwist"
+    jointLocation = "4"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "4"
+    jointType = "conetwist"
+    jointLocation = "4"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "5"
+    jointType = "conetwist"
+    jointLocation = "4"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "6"
+    jointType = "conetwist"
+    jointLocation = "4"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "1"
+    rigidBody1 = "7"
+    jointType = "conetwist"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "2"
+    rigidBody1 = "8"
+    jointType = "conetwist"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "3"
+    rigidBody1 = "9"
+    jointType = "fixed"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "x"
+    loStop0 = "0.000000"
+    hiStop0 = "0.000000"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "4"
+    rigidBody1 = "10"
+    jointType = "conetwist"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "5"
+    rigidBody1 = "11"
+    jointType = "conetwist"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "6"
+    rigidBody1 = "12"
+    jointType = "conetwist"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "x"
+    loStop0 = "0.174533"
+    hiStop0 = "0.174533"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "13"
+    jointType = "universal"
+    jointLocation = "4"
+    jointBasis = "0"
+    jointAxis0 = "y"
+    loStop0 = "-1.047198"
+    hiStop0 = "0.000000"
+    jointAxis1 = "z"
+    loStop1 = "-0.785398"
+    hiStop1 = "0.785398"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "14"
+    jointType = "universal"
+    jointLocation = "4"
+    jointBasis = "0"
+    jointAxis0 = "y"
+    loStop0 = "0.000000"
+    hiStop0 = "1.047198"
+    jointAxis1 = "z"
+    loStop1 = "-0.785398"
+    hiStop1 = "0.785398"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "15"
+    jointType = "conetwist"
+    jointLocation = "3"
+    jointBasis = "1"
+    jointAxis0 = "x"
+    loStop0 = "0.523599"
+    hiStop0 = "0.523599"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "13"
+    rigidBody1 = "16"
+    jointType = "hinge"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "z"
+    loStop0 = "-1.570796"
+    hiStop0 = "0.000000"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "14"
+    rigidBody1 = "17"
+    jointType = "hinge"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "z"
+    loStop0 = "-1.570796"
+    hiStop0 = "0.000000"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "18"
+    jointType = "universal"
+    jointLocation = "4"
+    jointBasis = "0"
+    jointAxis0 = "y"
+    loStop0 = "-1.570796"
+    hiStop0 = "0.000000"
+    jointAxis1 = "x"
+    loStop1 = "-3.141593"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "0"
+    rigidBody1 = "19"
+    jointType = "universal"
+    jointLocation = "4"
+    jointBasis = "0"
+    jointAxis0 = "y"
+    loStop0 = "0.000000"
+    hiStop0 = "1.570796"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "3.141593"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "18"
+    rigidBody1 = "20"
+    jointType = "hinge"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "z"
+    loStop0 = "-1.570796"
+    hiStop0 = "0.000000"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}
+JointDescription
+{
+    rigidBody0 = "19"
+    rigidBody1 = "21"
+    jointType = "hinge"
+    jointLocation = "3"
+    jointBasis = "0"
+    jointAxis0 = "z"
+    loStop0 = "-1.570796"
+    hiStop0 = "0.000000"
+    jointAxis1 = "x"
+    loStop1 = "0.000000"
+    hiStop1 = "0.000000"
+    breakable = "false"
+    breakChance = "0"
+}

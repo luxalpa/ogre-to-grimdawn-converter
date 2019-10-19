@@ -1,0 +1,9 @@
+*.xml
+*.mdl
+*.msh
+*.anm
+original sounds
+release/
+debug/
+animations/
+dragon/

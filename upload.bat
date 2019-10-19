@@ -1,0 +1,1 @@
+"T:\SteamLibrary\steamapps\common\Grim Dawn\ArchiveTool.exe" "T:\SteamLibrary\steamapps\common\Grim Dawn\mods/vyrax/resources/creatures.arc" -replace "./dragon" "C:\Projects\Ogre2GrimDawn"

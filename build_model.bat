@@ -1,0 +1,1 @@
+"T:\SteamLibrary\steamapps\common\Grim Dawn\ModelCompiler.exe" dragon.mdl -mif "dragon\dragon.mif"  "C:\Projects\Ogre2GrimDawn\\" -tangents dragon/dragon.msh
